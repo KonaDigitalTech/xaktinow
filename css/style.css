@@ -3497,8 +3497,9 @@ body {
     text-transform: uppercase;
     font-weight: 400;
     margin: 0 0 20px;
+    color: #ffab00;
 }
-  .ftmenu  p{color: #6d9eb2;line-height: 30px;margin: 0;}
+  .ftmenu  p{color: #d6ccae;line-height: 30px;margin: 0 0 25px;font-size: 16px;}
 .angle{position: absolute;top: -65px;right: -50px;opacity: 0.5;}
 
 
@@ -3610,6 +3611,7 @@ body {
       display: inline-flex;
       align-items: center;
       gap: 8px;
+      font-size: 16px;
   }
   
   .ftmenu ul li a:hover {
@@ -4712,7 +4714,7 @@ transition: width 0.3s ease;
 color: #fff;
 transform: translateX(5px);
 }
-.btmlogo{ padding: 50px 20px 0 0;}
+.btmlogo{padding: 0px 20px 0 0;}
 .innerboxes .dbox{min-height: 359px !important;margin: 0 0 30px;padding: 30px;}
 .innerboxes .dbox h4{margin: 0 0 30px;background-clip: text;-webkit-text-fill-color: transparent;background: linear-gradient(355deg, rgb(17 255 173) 0%, rgb(158 228 83) 48.1%, rgb(0 115 48) 100%);background-clip: text;font-size: 30px;}.innerboxes .dbox p{ font-size: 20px;}
 .padt0{ padding-top: 0 !important;}
@@ -5018,9 +5020,7 @@ box-shadow: 0 5px 20px rgba(0, 0, 0, 0.6) !important;
 }
 
 /* Footer links */
-.ftmenu ul li a {
-color: #6d9eb2;
-}
+.ftmenu ul li a {color: #d6ccae;}
 
 .ftmenu ul li a:hover {
 color: var(--accent-primary);
@@ -5083,9 +5083,7 @@ background: radial-gradient(circle at top left, rgba(255, 196, 0, 0.14) 0%, rgba
 }
 
 /* Footer sits on deeper space but keeps existing layout */
-.footer {
-background: radial-gradient(ellipse at top, #020617 0%, #000 60%);
-}
+.footer {background: radial-gradient(ellipse at top, #020617 0%, #6d5b245c 60%);}
 
 /* ----------------------------------------------------------
 Key heading + text sizing (desktop & mobile friendly)
