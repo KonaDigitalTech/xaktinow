@@ -1,4 +1,4 @@
-// Xakti Futuristic - Main JavaScript
+// XaktiNow - Main JavaScript
 
 // Utility functions
 const $ = (selector, root = document) => root.querySelector(selector);

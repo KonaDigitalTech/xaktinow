@@ -1,8 +1,8 @@
-# Xakti Futuristic Website
+# XaktiNow Website
 
 ## 🎉 Website Redesign Complete - Phase 1
 
-This repository contains the completely redesigned Xakti Futuristic website based on the comprehensive content blueprint provided. The website has been transformed from a single-page CAIR Drive product site into a full multi-page corporate website showcasing three business pillars: **XF Products**, **AI Services**, and **AI Academy**.
+This repository contains the completely redesigned XaktiNow website based on the comprehensive content blueprint provided. The website has been transformed from a single-page CAIR Drive product site into a full multi-page corporate website showcasing three business pillars: **XF Products**, **AI Services**, and **AI Academy**.
 
 ## ✅ What's Been Completed
 
@@ -294,9 +294,8 @@ Optimizations included:
 
 ## 📄 License
 
-© 2026 Xakti FUTURISTIC PRIVATE LIMITED. All rights reserved.
+© 2026 XaktiNow. All rights reserved.
 
-CIN: U62099AS2025PTC027602
 
 ---
 
